@@ -5,7 +5,7 @@
 const yony18 = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, Html, Css],
-  databases: [Sql, MySQL, MongoDB, PostgreSQL],
+  databases: [Sql, MySQL, MongoDB],
   tools: [React, Redux, NodeJs, Express],
 
 ```
