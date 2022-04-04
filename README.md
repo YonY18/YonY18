@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jonathan! </h2>
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+
 
 ```js
 const yony18 = {
