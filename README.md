@@ -18,11 +18,14 @@ const yony18 = {
 
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
-<p align="center">
+
+<div align="center">  
 <a href="https://www.linkedin.com/in/jonathan-pelinski-70817b211/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/jona_pelinski"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-</p>
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ____
