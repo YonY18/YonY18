@@ -1,7 +1,7 @@
 <h2> Hi, I'm Jonathan! </h2>
 <p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
-```js
+```jsx
 const yony18 = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, Html, Css],
