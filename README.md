@@ -7,9 +7,9 @@ const yony18 = {
   code: [Javascript, Typescript, Html, Css],
   databases: [Sql, MySQL, MongoDB],
   tools: [React, Redux, NodeJs, Express],
-  [Actualmente estoy buscando mi primer empleo como FullStack Web Developer]
-  [Me gusta aprender cosas nuevas cada día]
-  [Tengo 26 años, soy de Misiones, Argentina 🇦🇷] 
+  ["Actualmente estoy buscando mi primer empleo como FullStack Web Developer"]
+  ["Me gusta aprender cosas nuevas cada día"]
+  ["Tengo 26 años, soy de Misiones, Argentina 🇦🇷"] 
 ```
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
