@@ -9,9 +9,11 @@ const yony18 = {
   tools: [React, Redux, NodeJs, Express]
   ```
 
-  <span style="color: green">["Actualmlente estoy buscando mi primer empleo como FullStack Web Developer"]
+ <div style="color: green">
+  ["Actualmlente estoy buscando mi primer empleo como FullStack Web Developer"]
   ["Me gusta aprender cosas nuevas cada día"]
-  ["Tengo 26 años, soy de Misiones, Argentina 🇦🇷"]</span>
+  ["Tengo 26 años, soy de Misiones, Argentina 🇦🇷"]
+ </div>
 
 
 <div style="display: inline_block, background_color: white" >
