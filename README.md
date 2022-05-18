@@ -23,8 +23,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ##### Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Css3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ##### Some of the technologies I have worked with
