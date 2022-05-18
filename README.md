@@ -10,8 +10,8 @@ const yony18 = {
   ```
 
 ```diff
-+ text in green
-   + "Actualmlente estoy buscando mi primer empleo como FullStack Web Developer"
++ Actualmlente estoy buscando mi primer empleo como FullStack Web Developer
+
    + "Me gusta aprender cosas nuevas cada día"
    + "Tengo 26 años, soy de Misiones, Argentina 🇦🇷"
 ```
