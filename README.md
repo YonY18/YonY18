@@ -1,20 +1,38 @@
 <h2> Hi, I'm Jonathan! </h2>
 <p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
-```jsx
+```javascript
 const yony18 = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, Html, Css],
   databases: [Sql, MySQL, MongoDB],
   tools: [React, Redux, NodeJs, Express]
   ```
+```javascript
+// ¿Que fue primero, la gallina o el huevo?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
 ```diff
 + Actualmlente estoy buscando mi primer empleo como FullStack Web Developer
 + Me gusta aprender cosas nuevas cada día
 + Tengo 27 años, soy de Misiones, Argentina 🇦🇷
 ```
 
+##### Languages I use
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+##### Some of the technologies I have worked with
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
 <div style="display: inline_block, background_color: white" >
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
