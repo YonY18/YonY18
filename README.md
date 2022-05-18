@@ -22,8 +22,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 ##### Languages I use
 
-![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=HTML5&logoColor=red)
-![Css3](https://img.shields.io/badge/-Css3-222222?style=flat&logo=Css3&logoColor=blue)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5&logoColor=red)
+![Css3](https://img.shields.io/badge/-Css3-000000?style=flat&logo=Css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
