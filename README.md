@@ -9,11 +9,11 @@ const yony18 = {
   tools: [React, Redux, NodeJs, Express]
   ```
 
- <div tyle="display: inline_block>
-  ![#c5f015]"Actualmlente estoy buscando mi primer empleo como FullStack Web Developer"
-  ![#c5f015]"Me gusta aprender cosas nuevas cada día"
-  ![#c5f015]"Tengo 26 años, soy de Misiones, Argentina 🇦🇷"
- </div>
+```diff
+   + "Actualmlente estoy buscando mi primer empleo como FullStack Web Developer"
+   + "Me gusta aprender cosas nuevas cada día"
+   + "Tengo 26 años, soy de Misiones, Argentina 🇦🇷"
+```
 
 
 <div style="display: inline_block, background_color: white" >
