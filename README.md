@@ -22,8 +22,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 ##### Languages I use
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![Css3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=HTML5&logoColor=red)
+![Css3](https://img.shields.io/badge/-Css3-222222?style=flat&logo=Css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
@@ -35,6 +35,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/-Express-222222?style=flat&logo=Express&logoColor=61DAFB)
 
 
 <div style="display: inline_block, background_color: white" >
