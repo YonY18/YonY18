@@ -26,7 +26,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ![Css3](https://img.shields.io/badge/-Css3-000000?style=flat&logo=Css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-postgresql-000000?style=flat&logo=postgresql&logoColor=blue)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=blue)
 
 ##### Some of the technologies I have worked with
 
