@@ -10,9 +10,9 @@ const yony18 = {
   ```
 
  <div tyle="display: inline_block>
-  ![#c5f015]"Actualmlente estoy buscando mi primer empleo como FullStack Web Developer" `#c5f015`
-  ![#c5f015]"Me gusta aprender cosas nuevas cada día" `#c5f015`
-  ![#c5f015]"Tengo 26 años, soy de Misiones, Argentina 🇦🇷" `#c5f015`
+  ![#c5f015]"Actualmlente estoy buscando mi primer empleo como FullStack Web Developer"
+  ![#c5f015]"Me gusta aprender cosas nuevas cada día"
+  ![#c5f015]"Tengo 26 años, soy de Misiones, Argentina 🇦🇷"
  </div>
 
 
