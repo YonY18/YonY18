@@ -9,7 +9,7 @@ const yony18 = {
   tools: [React, Redux, NodeJs, Express]
   ```
 ```javascript
-// ¿Que fue primero, la gallina o el huevo?
+//* ¿Que fue primero, la gallina o el huevo?
 console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
