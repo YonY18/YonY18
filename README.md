@@ -19,7 +19,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 + Me gusta aprender cosas nuevas cada día
 + Tengo 27 años, soy de Misiones, Argentina 🇦🇷
 ```
-
+<div style="display: inline_block>
 ##### Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5&logoColor=red)
@@ -38,11 +38,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=61DAFB)
 ![MongoDb](https://img.shields.io/badge/-MONGO-000000?style=flat&logo=mongodb&logoColor=green)
 ![MySql](https://img.shields.io/badge/-mysql-000000?style=flat&logo=mysql&logoColor=blue)
-<div style="display: inline_block, background_color: white" >
-  
-  <img align="center" alt="postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 
 </div>
 
