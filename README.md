@@ -15,7 +15,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 ```diff
-+ Actualmlente estoy buscando mi primer empleo como FullStack Web Developer
++ Actualmente estoy buscando mi primer empleo como FullStack Web Developer
 + Me gusta aprender cosas nuevas cada día
 + Tengo 27 años, soy de Misiones, Argentina 🇦🇷
 ```
