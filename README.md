@@ -36,8 +36,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=violet)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=61DAFB)
-
-
+![MongoDb](https://img.shields.io/badge/-MONGO-000000?style=flat&logo=mongodb&logoColor=green)
+![MySql](https://img.shields.io/badge/-mysql-000000?style=flat&logo=mysql&logoColor=blue)
 <div style="display: inline_block, background_color: white" >
   
   <img align="center" alt="postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
