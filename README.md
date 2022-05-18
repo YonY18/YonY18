@@ -19,7 +19,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 + Me gusta aprender cosas nuevas cada día
 + Tengo 27 años, soy de Misiones, Argentina 🇦🇷
 ```
-<div style="display: inline_block>
+
             
 ##### Languages I use
 
@@ -40,7 +40,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ![MongoDb](https://img.shields.io/badge/-MONGO-000000?style=flat&logo=mongodb&logoColor=green)
 ![MySql](https://img.shields.io/badge/-mysql-000000?style=flat&logo=mysql&logoColor=blue)
 
-</div>
+
 
 <h2>💻 Some stats 💻</h2>
 
