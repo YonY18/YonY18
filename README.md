@@ -7,6 +7,7 @@ const yony18 = {
   code: [Javascript, Typescript, Html, Css],
   databases: [Sql, MySQL, MongoDB],
   tools: [React, Redux, NodeJs, Express]
+  }
 ```
 
 ```javascript
