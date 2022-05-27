@@ -26,7 +26,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   <a href="https://github.com/Dennish02">
   
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonY18&layout=compact&langs_count=7&theme=dark"/>
-</div>            
+</div>  
+
 ##### Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5&logoColor=red)
