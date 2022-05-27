@@ -46,9 +46,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 
 <h2>💻 Some stats 💻</h2>
-<div align="right">
-  <a href="https://github.com/Dennish02">
-  
+ 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=YonY18&count_private=true&theme=dark"/>
 </a>  
