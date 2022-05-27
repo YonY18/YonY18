@@ -52,9 +52,9 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonY18&layout=compact&langs_count=7&theme=dark"/>
 </div>  
 
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YonY18&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+<div align="left">  
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=YonY18&count_private=true&theme=dark"/>
+</div>   
 
 
 <h3 align="center"> Other Accounts 📫 </h3>
