@@ -46,7 +46,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 
 <h2>💻 Some stats 💻</h2>
-<div align="rigth">
+<div align="right">
   <a href="https://github.com/Dennish02">
   
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonY18&layout=compact&langs_count=7&theme=dark"/>
