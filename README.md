@@ -49,11 +49,11 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <div align="right">
   <a href="https://github.com/Dennish02">
   
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonY18&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonY18&layout=compact&langs_count=7&theme=dark"/>
 </div>  
 
 <div align="left">  
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=YonY18&count_private=true&theme=dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=YonY18&count_private=true&theme=dark"/>
 </div>   
 
 
