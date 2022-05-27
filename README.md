@@ -22,11 +22,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 + Tengo 27 años, soy de Misiones, Argentina 🇦🇷
 ```
 
-<div align="left">
-  <a href="https://github.com/Dennish02">
-  
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonY18&layout=compact&langs_count=7&theme=dark"/>
-</div>  
+
 
 ##### Languages I use
 
@@ -50,7 +46,12 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 
 <h2>💻 Some stats 💻</h2>
-
+<div align="left">
+  <a href="https://github.com/Dennish02">
+  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonY18&layout=compact&langs_count=7&theme=dark"/>
+</div>  
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YonY18&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
