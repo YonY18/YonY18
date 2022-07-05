@@ -60,9 +60,9 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 <h3>PF E-Comerse</h3>
 <p>
-  <a><img width="35%" height="250" src="https://user-images.githubusercontent.com/85300818/177323609-f1951498-cf87-4b5c-92e8-e4becb14947a.png"></a>
-  <a><img width="35%" height="250" src="https://user-images.githubusercontent.com/85300818/177323639-7ac0ecc4-97d5-4791-89de-579b6e5b158e.png"></a>
-  <a><img width="35%" height="250" src="https://user-images.githubusercontent.com/85300818/177323649-60760069-f654-42f7-b7d6-d5beb510f33c.png"></a>
+  <a><img width="100" height="250" src="https://user-images.githubusercontent.com/85300818/177323609-f1951498-cf87-4b5c-92e8-e4becb14947a.png"></a>
+  <a><img width="100" height="250" src="https://user-images.githubusercontent.com/85300818/177323639-7ac0ecc4-97d5-4791-89de-579b6e5b158e.png"></a>
+  <a><img width="100" height="250" src="https://user-images.githubusercontent.com/85300818/177323649-60760069-f654-42f7-b7d6-d5beb510f33c.png"></a>
 <p>
   
 <h3>Pi Videogames</h3>
