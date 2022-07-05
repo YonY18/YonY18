@@ -68,7 +68,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <h3>Pi Videogames</h3>
 <p>
   <a><img src="https://user-images.githubusercontent.com/85300818/177322852-6cac8e53-4ee5-44cd-a6ff-ef0a75cbe7a4.png"></a>
-  <a><img src="https://user-images.githubusercontent.com/85300818/177323025-9a71ad17-a37c-49ba-9e34-344e2cfb411f.png"></a>
+  <a><img src="https://user-images.githubusercontent.com/85300818/177323919-ef4ed0aa-1817-4d0a-915e-990d0b85f6d5.png"></a>
   <a><img src="https://user-images.githubusercontent.com/85300818/177323548-d5cafe2d-75b9-466f-ab12-6c7ba105bff2.png"></a>
 <p>
   
@@ -82,14 +82,14 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 &nbsp;
   
 <h3 align="center"> Other Accounts 📫 </h3>
+
 <br />
 
-<div align="center">  
+<div align="center"> 
+
 <a href="https://www.linkedin.com/in/jonathan-pelinski-70817b211/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/jona_pelinski"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href = "mailto:yonap80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
 
 </div>
 
