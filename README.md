@@ -54,6 +54,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonY18&layout=compact&langs_count=7&theme=dark"/>
 </a>
 
+&nbsp;
+
 ## My Proyects 
 
 <p>
@@ -66,7 +68,9 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   <a><img src="https://user-images.githubusercontent.com/85300818/177215829-5b5b0d25-43e7-4089-a1e2-ae53607f34ae.png"></a>
   <a><img src="https://user-images.githubusercontent.com/85300818/177215832-1e84eb1f-5301-4de7-ab3d-49ab336bdf76.png"></a>
 <p>
-
+  
+&nbsp;
+  
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 
