@@ -67,16 +67,16 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   
 <h3>Pi Videogames</h3>
 <p>
-  <a><img src="https://user-images.githubusercontent.com/85300818/177322852-6cac8e53-4ee5-44cd-a6ff-ef0a75cbe7a4.png"></a>
-  <a><img src="https://user-images.githubusercontent.com/85300818/177323919-ef4ed0aa-1817-4d0a-915e-990d0b85f6d5.png"></a>
-  <a><img src="https://user-images.githubusercontent.com/85300818/177323548-d5cafe2d-75b9-466f-ab12-6c7ba105bff2.png"></a>
+  <a><img width="330" height="230" src="https://user-images.githubusercontent.com/85300818/177322852-6cac8e53-4ee5-44cd-a6ff-ef0a75cbe7a4.png"></a>
+  <a><img width="330" height="230" src="https://user-images.githubusercontent.com/85300818/177323919-ef4ed0aa-1817-4d0a-915e-990d0b85f6d5.png"></a>
+  <a><img width="330" height="230" src="https://user-images.githubusercontent.com/85300818/177323548-d5cafe2d-75b9-466f-ab12-6c7ba105bff2.png"></a>
 <p>
   
 <h3>Pi Pokemons</h3>
 <p>
-  <a><img src="https://user-images.githubusercontent.com/85300818/177215743-738825eb-0165-4aeb-b41c-a2bf2f9bc5e8.png"></a>
-  <a><img src="https://user-images.githubusercontent.com/85300818/177215829-5b5b0d25-43e7-4089-a1e2-ae53607f34ae.png"></a>
-  <a><img src="https://user-images.githubusercontent.com/85300818/177215832-1e84eb1f-5301-4de7-ab3d-49ab336bdf76.png"></a>
+  <a><img width="330" height="230" src="https://user-images.githubusercontent.com/85300818/177215743-738825eb-0165-4aeb-b41c-a2bf2f9bc5e8.png"></a>
+  <a><img width="330" height="230" src="https://user-images.githubusercontent.com/85300818/177215829-5b5b0d25-43e7-4089-a1e2-ae53607f34ae.png"></a>
+  <a><img width="330" height="230" src="https://user-images.githubusercontent.com/85300818/177215832-1e84eb1f-5301-4de7-ab3d-49ab336bdf76.png"></a>
 <p>
 
 &nbsp;
