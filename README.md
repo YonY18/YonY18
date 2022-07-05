@@ -58,7 +58,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 ## My Proyects
 
-<h3>PF E-Comerse</h3>
+<h3>PF E-Social</h3>
 <p>
   <a><img width="33%" height="200" src="https://user-images.githubusercontent.com/85300818/177323609-f1951498-cf87-4b5c-92e8-e4becb14947a.png"></a>
   <a><img width="33%" height="200" src="https://user-images.githubusercontent.com/85300818/177323639-7ac0ecc4-97d5-4791-89de-579b6e5b158e.png"></a>
