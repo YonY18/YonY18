@@ -56,19 +56,29 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 &nbsp;
 
-## My Proyects 
+## My Proyects
 
+<h3>PF E-Comerse</h3>
 <p>
-  <a><img src="https://user-images.githubusercontent.com/85300818/177215743-738825eb-0165-4aeb-b41c-a2bf2f9bc5e8.png"></a>
-  <a><img src="https://user-images.githubusercontent.com/85300818/177215829-5b5b0d25-43e7-4089-a1e2-ae53607f34ae.png"></a>
-  <a><img src="https://user-images.githubusercontent.com/85300818/177215832-1e84eb1f-5301-4de7-ab3d-49ab336bdf76.png"></a>
-<p>
-<p>
-  <a><img src="https://user-images.githubusercontent.com/85300818/177215743-738825eb-0165-4aeb-b41c-a2bf2f9bc5e8.png"></a>
-  <a><img src="https://user-images.githubusercontent.com/85300818/177215829-5b5b0d25-43e7-4089-a1e2-ae53607f34ae.png"></a>
-  <a><img src="https://user-images.githubusercontent.com/85300818/177215832-1e84eb1f-5301-4de7-ab3d-49ab336bdf76.png"></a>
+  <a><img src="https://user-images.githubusercontent.com/85300818/177323609-f1951498-cf87-4b5c-92e8-e4becb14947a.png"></a>
+  <a><img src="https://user-images.githubusercontent.com/85300818/177323639-7ac0ecc4-97d5-4791-89de-579b6e5b158e.png"></a>
+  <a><img src="https://user-images.githubusercontent.com/85300818/177323649-60760069-f654-42f7-b7d6-d5beb510f33c.png"></a>
 <p>
   
+<h3>Pi Videogames</h3>
+<p>
+  <a><img src="https://user-images.githubusercontent.com/85300818/177322852-6cac8e53-4ee5-44cd-a6ff-ef0a75cbe7a4.png"></a>
+  <a><img src="https://user-images.githubusercontent.com/85300818/177323025-9a71ad17-a37c-49ba-9e34-344e2cfb411f.png"></a>
+  <a><img src="https://user-images.githubusercontent.com/85300818/177323548-d5cafe2d-75b9-466f-ab12-6c7ba105bff2.png"></a>
+<p>
+  
+<h3>Pi Pokemons</h3>
+<p>
+  <a><img src="https://user-images.githubusercontent.com/85300818/177215743-738825eb-0165-4aeb-b41c-a2bf2f9bc5e8.png"></a>
+  <a><img src="https://user-images.githubusercontent.com/85300818/177215829-5b5b0d25-43e7-4089-a1e2-ae53607f34ae.png"></a>
+  <a><img src="https://user-images.githubusercontent.com/85300818/177215832-1e84eb1f-5301-4de7-ab3d-49ab336bdf76.png"></a>
+<p>
+
 &nbsp;
   
 <h3 align="center"> Other Accounts 📫 </h3>
