@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jonathan! </h2>
-<p align="center"><img width=50% src="[https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg](https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D9cd1cf1afbc7722588a5a03bd6606552f06135cf)"></p>
+<p align="center"><img width=50% src="https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D9cd1cf1afbc7722588a5a03bd6606552f06135cf"></p>
 
 ```javascript
 const yony18 = {
