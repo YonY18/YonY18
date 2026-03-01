@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jonathan! </h2>
-<p align="center"><img width=50% src="https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D9cd1cf1afbc7722588a5a03bd6606552f06135cf"></p>
+<p align="center"><img width=50% src="https://images.steamusercontent.com/ugc/94981434109308086/C48931A89D64785945BD0D364A481DA5BAB2B323/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"></p>
 
 ```javascript
 const yony18 = {
