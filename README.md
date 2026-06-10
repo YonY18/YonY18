@@ -1,5 +1,4 @@
 <h2> Hi, I'm Jonathan! </h2>
-<p align="center"><img width=50% src="https://images.steamusercontent.com/ugc/94981434109308086/C48931A89D64785945BD0D364A481DA5BAB2B323/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"></p>
 
 ```javascript
 const yony18 = {
