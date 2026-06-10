@@ -1,12 +1,12 @@
-<h2> Hi, I'm Jonathan! </h2>
+<h2>Hi, I'm Jonathan!</h2>
 
 ```javascript
 const yony18 = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, Html, Css],
-  databases: [Sql, MySQL, MongoDB],
-  tools: [React, Redux, NodeJs, Express]
-  }
+  code: [JavaScript, TypeScript, Java, Dart, HTML, CSS],
+  databases: [SQL, MySQL, MongoDB],
+  tools: [React, Redux, NodeJs, Express, Flutter, FastAPI],
+};
 ```
 
 ```javascript
@@ -29,6 +29,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ![Css3](https://img.shields.io/badge/-Css3-000000?style=flat&logo=Css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=orange)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=0175C2)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=blue)
 
 ##### Some of the technologies I have worked with
@@ -39,6 +41,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=violet)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=009688)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
 ![MongoDb](https://img.shields.io/badge/-MONGO-000000?style=flat&logo=mongodb&logoColor=green)
 ![MySql](https://img.shields.io/badge/-mysql-000000?style=flat&logo=mysql&logoColor=blue)
 
