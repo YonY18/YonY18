@@ -18,7 +18,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ```diff
 + Trabajando de lo que me gusta! FullStack Web Developer
 + Me gusta aprender cosas nuevas cada día
-+ Tengo 28 años, soy de Misiones, Argentina 🇦🇷
++ Tengo 32 años, soy de Misiones, Argentina 🇦🇷
 ```
 
 
