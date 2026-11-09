@@ -86,9 +86,9 @@ Cuando no estoy trabajando en aplicaciones, probablemente estoy experimentando c
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YonY18&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YonY18&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YonY18&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=YonY18&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
 
