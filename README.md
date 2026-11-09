@@ -16,9 +16,9 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 ```diff
-+ Trabajando de lo que me gusta! FullStack Web Developer
++ Trabajando de lo que me gusta! Developer 
 + Me gusta aprender cosas nuevas cada día
-+ Tengo 32 años, soy de Misiones, Argentina 🇦🇷
++ Tengo 36 años, soy de Misiones, Argentina 🇦🇷
 ```
 
 
